@@ -1,4 +1,6 @@
 # limited-population
+
+![limited-population]([http://url/to/img.png](https://img.gta5-mods.com/q95/images/limited-population/b68abf-LimitedPopulation.png))
 Now every ped kill will lower the total population of the GTA 5. People will no longer be infinitely generated. Population returns to normal after the game is restarted.
 
 If you kill too many random peds, there may be no one left in town but you. Can you do it?
