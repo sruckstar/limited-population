@@ -1,5 +1,5 @@
 # limited-population
-Now every ped kill will lower the total population of the game. People will no longer be infinitely generated. Population returns to normal after the game is restarted.
+Now every ped kill will lower the total population of the GTA 5. People will no longer be infinitely generated. Population returns to normal after the game is restarted.
 
 If you kill too many random peds, there may be no one left in town but you. Can you do it?
 
