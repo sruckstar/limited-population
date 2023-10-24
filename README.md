@@ -1,4 +1,4 @@
-# limited-population
+![limited-population](https://cdn.discordapp.com/attachments/907382515176718398/1166365628924448879/Limited_Population.png)
 
 Now every ped kill will lower the total population of the game. People will no longer be infinitely generated. If you kill too many random peds, there may be no one left in town but you. Can you do it?
 
